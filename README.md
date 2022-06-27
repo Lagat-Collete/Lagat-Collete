@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**Lagat-Collete/Lagat-Collete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
- ### Hi I am ***Jimmy-oss*** 👋  
+<h1 align="center">Hi 👋, I'm Jepngetich Collete </h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+ 
 
 - 🔭 I’m a Passionate programmer who loves coding in both ***web development🚀***
 - 🌱 Currently, I'm a *Full Stack Web Development*.
@@ -13,7 +8,7 @@
 - 🤔 I’m interested with Back-End.
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jepngetichcolleta@gmail.com.
-- ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
+- ⚡ Fun fact **I think I am funny which is not true! XD**
 
 ## 👩‍💻#365dayschallenge
 | ![Lagat-Collete GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Lagat-Collete&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![Lagat-Collete GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lagat-Collete&theme=tokyonight) |
@@ -38,7 +33,6 @@
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:active](https://img.shields.io/badge/social--life-active-aqua)](https://img.shields.io/badge/social--life-active-aqua)
-<!--<h4>Check out <a href="https://creative-portfolio-website.netlify.app/" target="_blank">My PORTFOLIO</a></h4>-->
 <h4>Github Collaborations</h4>
 <h4><a href="https://github.com/jimmy-oss/photon">The Photon</a></h4>
 <h4><a href="https://github.com/jimmy-oss/riverside-medical-center">Riverside Medical Centre</a></h4>
