@@ -42,7 +42,6 @@
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>
 
  
